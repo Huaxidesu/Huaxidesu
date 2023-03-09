@@ -2,6 +2,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huaxidesu&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=huaxidesu%40gmail.com&theme=onedark-duo&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans)](https://git.io/streak-stats)
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Huaxidesu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
