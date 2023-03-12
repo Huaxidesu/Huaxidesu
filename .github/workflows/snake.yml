@@ -23,5 +23,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          publish_dir: /
+          commit_message: Update gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
