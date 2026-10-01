@@ -7,7 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huaxidesu&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 活动图
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Huaxidesu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 由 .github/workflows/update-graph.yml 每天自动生成，请勿手动编辑 activity-graph.svg -->
+[![Huaxidesu 的 GitHub 活动图（最近 90 天）](./activity-graph.svg)](https://github.com/Huaxidesu)
 
 ## 贡献图
 ![暗色](https://raw.githubusercontent.com/Huaxidesu/Huaxidesu/output/github-contribution-grid-snake.svg)
